@@ -1,0 +1,9 @@
+Security Check für dich
+
+| Frage                                                        | Punkte | Erklärung                                                                                                                                                                             |
+| ------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ich habe (fast) das gleiche Passwort auf allen Webseiten     | 3      | Passwart Manager benutzen, da immer mehr Datenbanken gehackt werden (haveibeenpawed.com)                                                                                              |
+| Ich benutze Browser Plugins wie AdBlocker oder PrivacyBadger | 2      | Plugins, die Javascript vor dem Laden der Website entfernen, reduzieren nicht nur Werbung sonder auch die Chance, dass schadhafter Javascript Code im Browser ausgeführt wird         |
+| Ich mache ein Backup meiner Daten meiner Computer            | 2      | Man sollte eigentlich immer alles backupen. Vor allem Laptops                                                                                                                         |
+| Ich habe die Daten auf meine Smartphone verschlüsselt        | 2      | Evtl Default bei Apple, Android bietet die Datenverschlüsseling bei Einrichtung an, und ist auch in Nachhinein noch aktiviertbar. Wenn das Telefon abhanden kommt, ist die viel Wert. |
+|                                                              |        |                                                                                                                                                                                       |
