@@ -1,0 +1,2 @@
+# rd.podcast
+notes podcast
