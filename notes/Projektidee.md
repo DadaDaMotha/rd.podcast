@@ -22,6 +22,8 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
   - Ein kleiner Rückblick auf den Siegeszug des Internets und wie sich die Welt verändert hat
   
   - Die erstaunliche Rolle, die Linux dabei einnimmt, von der aber die wenigsten richtig wissen
+
+  - Was neben dem Linux Kernel eben auch git für eine Rolle spielt, dass es die Welt erobert hat, in nur 2 Wochen geschrieben wurde (Linux Show-Off) und die Entwicklung in Branches / Zweigen erlaubt, die ein gesamtes Ökosystem wie die Wurzeln eines Baumes tragen. 
   
   - Befragung, was Personen unterschiedlichster Altersgruppen als die grössten Änderungen wahrgenommen haben, mit Fokus nicht so sehr auf ihren Arbeitsalltag sondern auf gesellschaftliche Dinge
   
@@ -206,6 +208,18 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
   
   - In Zeiten von AI, was sehr viel mit Statistik und Mathematik zu tun hat, reicht es nicht, Daten nur pseudo-anonymisieren
 
+**Dezentralisierung: der neue Trend?**
+
+- Matrix Messenger und Protokoll: super erfolgreiches Projekt, wird bereits von Staaten offiziell eingesetzt (Recherche!)
+- ist ein Schnittstellenprotokoll
+- erlaubt Messenging, Encryption und (Video?)calls
+- yewtu.be: Dezentralisierter Youtube-Wrapper: Anonymisierung durch Sammlung von Anfragen auf Server, die dezentral aufgebaut sind. 
+  - Download von Audio und Video in verschiedenen Formaten,
+  - Anzeige von Metriken, die sonst bei Youtube versteckt sind (Traction etc.)
+- Mastodon: Dezentraler Twitter Clone
+- Diaspora: Dezentrale Facebook Alternative
+- Mobilizon: Facebook-Events Alternative
+
 ## Umsetzung
 
 ### Folgen
@@ -215,6 +229,8 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
 - Einzelinterviews mit Schwerpunkten können auch länger sein
 
 ### Interviewmethodik
+
+6El0v}6C7-LnB*
 
 - wenn möglich offene Fragen stellen am Anfang. Diese lassen die Richtung des Interviews offen
 
