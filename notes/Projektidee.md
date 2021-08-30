@@ -177,7 +177,7 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
   - SocialGraphs, Konsum-Graph
   - https://media.ccc.de/v/35c3-9941-how_facebook_tracks_you_on_android
   
-  - MediaCCC: Datenhändler Probeabo 2.5 Millione Dütsche Live-Feed pro URL, Kosten 300'000 / pro Monat
+  - MediaCCC: Datenhändler Probeabo 2.5 Millione Dütsche Live-Feed pro URL, Kosten 300'000 / pro Monat (Katarina Nocun?, finde Video nicht mehr)
   - Datenhandel erzeugt diese Geld pro Person mehrfach
   - Grafik mit der Zahl der Datenhändler
   - Konzerwert durch Anzahl Nutzer teilen
@@ -189,6 +189,7 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
   - Chefredator von .... war früher beim Geheimdienst
   - Staaten selbst kaufen bei diesen Konzernen ein
   - [Was deine Daten über mich verraten](https://media.ccc.de/v/DS2014_-_5920_-_de_-_grosser_saal_-_201409131300_-_wie_kannst_du_wissen_wer_ich_bin_-_kusanowsky)
+  - https://media.ccc.de/v/dgwk_2019_tracking_im_web_warum_kann_alice_nzz_oder_tagi_online_gratis_lesen_bob_aber_nicht
 
 - **Wie gehen Datenräuber vor**
   
@@ -208,17 +209,30 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
   
   - In Zeiten von AI, was sehr viel mit Statistik und Mathematik zu tun hat, reicht es nicht, Daten nur pseudo-anonymisieren
 
-**Dezentralisierung: der neue Trend?**
+  - https://media.ccc.de/v/dgwk_2019_keynote_per_datenauskunft_zum_eigenen_clickstream
 
-- Matrix Messenger und Protokoll: super erfolgreiches Projekt, wird bereits von Staaten offiziell eingesetzt (Recherche!)
-- ist ein Schnittstellenprotokoll
-- erlaubt Messenging, Encryption und (Video?)calls
-- yewtu.be: Dezentralisierter Youtube-Wrapper: Anonymisierung durch Sammlung von Anfragen auf Server, die dezentral aufgebaut sind. 
-  - Download von Audio und Video in verschiedenen Formaten,
-  - Anzeige von Metriken, die sonst bei Youtube versteckt sind (Traction etc.)
-- Mastodon: Dezentraler Twitter Clone
-- Diaspora: Dezentrale Facebook Alternative
-- Mobilizon: Facebook-Events Alternative
+- **Dezentralisierung: der neue Trend?**
+
+  - Matrix Messenger und Protokoll: super erfolgreiches Projekt, wird bereits von Staaten offiziell eingesetzt (Recherche!)
+  - ist ein Schnittstellenprotokoll
+  - erlaubt Messenging, Encryption und (Video?)calls
+  - yewtu.be: Dezentralisierter Youtube-Wrapper: Anonymisierung durch Sammlung von Anfragen auf Server, die dezentral aufgebaut sind. 
+    - Download von Audio und Video in verschiedenen Formaten,
+    - Anzeige von Metriken, die sonst bei Youtube versteckt sind (Traction etc.)
+  - Mastodon: Dezentraler Twitter Clone
+  - Diaspora: Dezentrale Facebook Alternative
+  - Mobilizon: Facebook-Events Alternative
+  - https://media.ccc.de/v/32c3-7403-a_new_kid_on_the_block
+
+- **Formen des digitalen Aktivisus**
+
+  - [Die Kunst der Provokation - 3sat Dokumentation über Peng! Kollektiv](https://yewtu.be/watch?v=5emovH8Zni0)
+  - [The Yes Men](https://yewtu.be/channel/UCKzQ35vwoPzcG0miA-GXioA)
+  - [Sleeping Giants](https://de.wikipedia.org/wiki/Sleeping_Giants)
+
+- **Technologie: Freund oder Feind?**
+
+Inspiriert durch Doku "Generation Sputnik". Nochmals zusammen anschauen und Notizen machen.
 
 ## Umsetzung
 
