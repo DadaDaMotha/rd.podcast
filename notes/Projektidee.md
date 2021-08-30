@@ -244,8 +244,6 @@ Inspiriert durch Doku "Generation Sputnik". Nochmals zusammen anschauen und Noti
 
 ### Interviewmethodik
 
-6El0v}6C7-LnB*
-
 - wenn möglich offene Fragen stellen am Anfang. Diese lassen die Richtung des Interviews offen
 
 - auf Interviewpartner eingehen und auch abweichen, wenn man spannende Ecken erkunden kann
