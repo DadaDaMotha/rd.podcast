@@ -17,7 +17,7 @@ Die zwei Hosts fungieren als "Experten" so weit sie bei dem Thema Sattelfest
 sind, ansonsten werden Expert/Innen konsultiert oder eingeladen. Als Inputs und
 Stichwortgeberinnen dienen O-Töne von Strassen-Umfrageb & -Quizes.
 
-In Abgrenzung zum bestehendem Sendeformat _Nerdfunk_ wollen wir nicht rund um Nerd & IT-Technik für Consumer berichten (Crossover sind durchaus denkbar) sondern das Stimmungsbild in der Geselschaft einfangen, kolportieren, mit der Realität abgleuchen und damit für den Zuhörer erweitern, und dann auch einen Blick in die Zukunft wagen. Nicht die Technik soll im Vordergrund stehen sondern das Emotionale und "wie es mich und meine Umwelt betrifft" ansprechen.
+In Abgrenzung zum bestehendem Sendeformat _Nerdfunk_ wollen wir nicht rund um Nerd & IT-Technik für Consumer berichten (Crossover sind durchaus denkbar) sondern das Stimmungsbild in der Geselschaft einfangen, kolportieren, mit der Realität abgleichen und damit für den Zuhörer erweitern, und dann auch einen Blick in die Zukunft wagen. Nicht die Technik soll im Vordergrund stehen sondern das Emotionale und "wie es mich und meine Umwelt betrifft" ansprechen.
 
 Den min. Intervall der Veröffentlichungen vom Podcast sehen wir aus Zeitlichen und vom Umfang her bei
 14 Tagen.
