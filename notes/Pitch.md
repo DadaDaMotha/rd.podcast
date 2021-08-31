@@ -26,7 +26,7 @@ Den min. Intervall der Veröffentlichungen vom Podcast sehen wir aus Zeitlichen 
 
 __Lukas Burkhard__
 
-Allrounder, spielt seit 14 Jahren Gitarre, hat 2 Alben um Studio aufgenommen, hat selbst ein paar [Tracks]([Stream PonyM music | Listen to songs, albums, playlists for free on SoundCloud](https://soundcloud.com/red_ribbon/)) publiziert. Wurde vom Geologen 2018 zum Fullstack Entwickler und arbeitet heute im Bereich Web-Entwicklung. Konsumiert täglich mehrere Stunden Podcasts und News. Hat seit jeher das Bedürfnis, die Welt zu verstehen, interessiert sich für Philosophie, Gesellschaft, Digitalisierung, Privacy, OpenSource, Wirtschaft und eben: die Zukunft unserer Jugend. Ist inspiriert durch viele Sendeformate, die wichtigsten: SRF Digital Podcast, Darknet Diaries, Echo der Zeit oder auch das Youtube Format Jung&Naiv. Ebenso auch Sternstunde Philosophie.
+Allrounder, spielt seit 14 Jahren Gitarre, hat 2 Alben um Studio aufgenommen, hat selbst ein paar [Tracks](https://soundcloud.com/red_ribbon/) publiziert. Wurde vom Geologen 2018 zum Fullstack Entwickler und arbeitet heute im Bereich Web-Entwicklung. Konsumiert täglich mehrere Stunden Podcasts und News. Hat seit jeher das Bedürfnis, die Welt zu verstehen, interessiert sich für Philosophie, Gesellschaft, Digitalisierung, Privacy, OpenSource, Wirtschaft und eben: die Zukunft unserer Jugend. Ist inspiriert durch viele Sendeformate, die wichtigsten: SRF Digital Podcast, Darknet Diaries, Echo der Zeit oder auch das Youtube Format Jung&Naiv. Ebenso auch Sternstunde Philosophie.
 
 __Raoul René Melcer__ aka [KubikPixel](https://thunix.net/~kubikpixel/)
 
