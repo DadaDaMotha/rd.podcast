@@ -1,6 +1,6 @@
-# Real | Digital Podcast
+# <img title="" src="file:///home/pony_m/Repos/rd.podcast/assets/icon_twister_black.svg" alt="" width="283">Real | Digital | Podcast
 
-> Bewerbung für: https://stadtfilter.ch/wp-content/uploads/2021/06/Ausschreibung_Podcasts-Projekt.pdf
+**Bewerbung für [Ausschreibung Podcast Radio Stadtfilter](https://stadtfilter.ch/wp-content/uploads/2021/06/Ausschreibung_Podcasts-Projekt.pdf)**
 
 Das _Real | Digital_ Team möchte auf die Strasse wissen, in welcher Form die Digitalisierung die Menschen beschäftigt. Wir alle befinden uns in diesem Spannungsfeld von Gesellschaft, Politik und Digitalisierung und erleben dabei ganz unterschiedliche Geschwindigkeiten der Adaption und des Umgangs mit dieser neuen Realität. Wir wollen die Gelegenheit nutzen, von Personen aller Alterskategorien selbst zu erfahren, was sie umtreibt und wie sie sich positionieren in diesem Spannungsfeld und das Thema aus verschiedenen Blickwinkeln mehr gesellschaftlich-philosophisch als technisch beleuchten.
 
@@ -24,9 +24,9 @@ Den min. Intervall der Veröffentlichungen vom Podcast sehen wir aus Zeitlichen 
 
 ## Team
 
-__Lukas Burkhard__
+__Lukas Burkhard__ ([GitHub](https://github.com/DadaDaMotha))
 
-Allrounder, spielt seit 14 Jahren Gitarre, hat 2 Alben um Studio aufgenommen, hat selbst ein paar [Tracks]([Stream PonyM music | Listen to songs, albums, playlists for free on SoundCloud](https://soundcloud.com/red_ribbon/)) publiziert. Wurde vom Geologen 2018 zum Fullstack Entwickler und arbeitet heute im Bereich Web-Entwicklung. Konsumiert täglich mehrere Stunden Podcasts und News. Hat seit jeher das Bedürfnis, die Welt zu verstehen, interessiert sich für Philosophie, Gesellschaft, Digitalisierung, Privacy, OpenSource, Wirtschaft und eben: die Zukunft unserer Jugend. Ist inspiriert durch viele Sendeformate, die wichtigsten: SRF Digital Podcast, Darknet Diaries, Echo der Zeit oder auch das Youtube Format Jung&Naiv. Ebenso auch Sternstunde Philosophie.
+Allrounder, spielt seit 14 Jahren Gitarre, hat 2 Alben um Studio aufgenommen, hat selbst ein paar [Tracks](https://soundcloud.com/red_ribbon/) publiziert. Wurde vom Geologen 2018 zum Fullstack Entwickler und arbeitet heute im Bereich Web-Entwicklung. Konsumiert täglich mehrere Stunden Podcasts und News. Hat seit jeher das Bedürfnis, die Welt zu verstehen, interessiert sich für Philosophie, Gesellschaft, Digitalisierung, Privacy, OpenSource, Wirtschaft und eben: die Zukunft unserer Jugend. Ist inspiriert durch viele Sendeformate, die wichtigsten: SRF Digital Podcast, Darknet Diaries, Echo der Zeit oder auch das Youtube Format Jung&Naiv. Ebenso auch Sternstunde Philosophie.
 
 __Raoul René Melcer__ aka [KubikPixel](https://thunix.net/~kubikpixel/)
 
@@ -62,7 +62,7 @@ Medialen aufbereitungen leider noch techn. nicht korrekt.
 
 ### Folgen
 
-- Länge um die 30 - 45min pro Folge als Ziel
+- Länge um die 45min pro Folge als Ziel
 - Einzelinterviews mit Schwerpunkten können auch länger sein
 
 ### Methotik
@@ -168,14 +168,13 @@ Folgendes Equipment ist bereits vorhanden:
 - Heute gibt es wieder alternative SocialMedia-Kanäle wie Mastodon oder Diaspora. Diese sollen erwähnt sein!
 - Die Audiopodcasts sollen über eine eigene Seite per RSS Feed zur Verfügung gestellt werden.
 - Da Technologie so schnellebig ist, gehen die Themen auch nie aus. Es wird also immer aktuelle Themen geben.
+- Zusammenarbeit mit all den Personen, die selbst schon viel aufgebaut haben
 
 ## Todo
 
 - Podcast Jingle fürs Intro
-- Adaption Desing [docs.real-digital.ch](docs.real-digital.ch) auf eine Hauptseite real-digital.ch. Entwurf mit Vue.js ist bereits vorhanden.
+- Adaption Design [docs.real-digital.ch](docs.real-digital.ch) auf eine Hauptseite real-digital.ch. Entwurf mit Vue.js ist bereits vorhanden.
 - Backend-App Entwicklung (django oder starlette/fastapi): Blog, Podcast, Quiz
 - Folgen planen: Wo, wann, Zeitaufwand abschätzen
 - Team vervollständigen (mind. 2 Personen nötig für Interviews)
 - DSP-Pipeline programmieren mit python, um alle Folgen gleich zu prozessieren, sofern Aufwand nicht zu gross, dieses als OpenSource Tools veröffentlichen
-
-
