@@ -223,6 +223,7 @@ Gleichzeitig soll der Podcast auch eine aufklärende Komponente beinhalten, welc
   - Diaspora: Dezentrale Facebook Alternative
   - Mobilizon: Facebook-Events Alternative
   - https://media.ccc.de/v/32c3-7403-a_new_kid_on_the_block
+  - https://github.com/SimonBrazell/privacy-redirect
 
 - **Formen des digitalen Aktivisus**
 

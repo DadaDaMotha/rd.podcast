@@ -69,3 +69,11 @@ Woher stammte die 0-Day Sicherheitslücke EternalBlue, die den Virus WannyCry so
 - von einer 0-Day Lücke aus ungekannter Quelle, die im Darknet verkauft wurde
 
 - vom Auslandgemeindienst NSA, der von den Shadow Brokers gehackt wurde
+
+Wie viele Jahr müsste die Schweiz ihr Brutto-Inlandprodukt auf ein Sparkonto einzahlen, bis sie das Vermögen von Jeff Bezos erreicht?
+
+- 14 Jahre
+
+- 140 Jahre
+
+- 1400 Jahre
